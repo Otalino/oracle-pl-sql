@@ -9,7 +9,7 @@ Aplicação desenvolvida para Cadastro de Alunos, Cadastro de Turmas, Cadastro d
 Tela de Preços e Geração de Faturas – Calculando faturas com base na frequência de dias de aulas.
 <br/>
 <br/>
-Link de acesso: https://apex.oracle.com/pls/apex/r/aabr_2/equipe-od-gin%C3%A1sticaartistica167980/login?session=10240285164488282
+Link de acesso: https://apex.oracle.com/pls/apex/r/aabr_2/equipe-od-gin%C3%A1stica-artistica167980/login?session=10240285164488282
 <br/>
 <br/>
 Login: usuario_teste
