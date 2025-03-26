@@ -10,17 +10,17 @@ Este repositório contém procedures e funções desenvolvidas para o sistema em
 A aplicação foi criada para gerenciar equipes de Ginástica Artística, oferecendo funcionalidades como:
 <br/>
 <br/>
-Cadastro de Alunos
+• Cadastro de Alunos
 <br/>
-Cadastro de Turmas
+• Cadastro de Turmas
 <br/>
-Cadastro de Professores
+• Cadastro de Professores
 <br/>
-Lista de Chamada
+• Lista de Chamada
 <br/>
-Tela de Preços
+• Tela de Preços
 <br/>
-Geração de Faturas (cálculo baseado na frequência de aulas)
+• Geração de Faturas (cálculo baseado na frequência de aulas)
 <br/>
 <br/>
 🔗 Acesso ao Sistema
@@ -40,8 +40,8 @@ Senha: usuario_teste
 🛠 Tecnologias Utilizadas
 <br/>
 <br/>
-Oracle APEX
+• Oracle APEX
 <br/>
-PL/SQL
+• PL/SQL
 <br/>
-SQL
+• SQL
