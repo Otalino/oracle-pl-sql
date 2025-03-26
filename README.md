@@ -1,20 +1,40 @@
 # oracle-pl-sql
-Procedures e funções desenvolvidas para o sistema em Oracle APEX
+Sistema de Gestão para Equipe de Ginástica Artística (Oracle APEX).
+<br/>
+Este repositório contém procedures e funções desenvolvidas para o sistema em Oracle APEX.
 <br/>
 <br/>
-Sistema de Gestão para Equipe de Ginástica Artística (Oracle APEX)
+📌 Sobre o Sistema
+<br/>
+A aplicação foi criada para gerenciar equipes de Ginástica Artística, oferecendo funcionalidades como:
+<br/>
+Cadastro de Alunos
+<br/>
+Cadastro de Turmas
+<br/>
+Cadastro de Professores
+<br/>
+Lista de Chamada
+<br/>
+Tela de Preços
+<br/>
+Geração de Faturas (cálculo baseado na frequência de aulas)
 <br/>
 <br/>
-Aplicação desenvolvida para Cadastro de Alunos, Cadastro de Turmas, Cadastro de Professores, Lista de Chamada
-Tela de Preços e Geração de Faturas – Calculando faturas com base na frequência de dias de aulas.
+🔗 Acesso ao Sistema
 <br/>
+🔗 https://apex.oracle.com/pls/apex/r/aabr_2/equipe-od-gin%C3%A1stica-artistica167980/login?session=10240285164488282 
 <br/>
-Link de acesso: https://apex.oracle.com/pls/apex/r/aabr_2/equipe-od-gin%C3%A1stica-artistica167980/login?session=10240285164488282
+Credenciais de Teste:
 <br/>
-<br/>
-Login: usuario_teste
+Usuário: usuario_teste
 <br/>
 Senha: usuario_teste
 <br/>
+🛠 Tecnologias Utilizadas
 <br/>
-Tecnologias utilizadas: Oracle APEX, PL/SQL, SQL
+Oracle APEX
+<br/>
+PL/SQL
+<br/>
+SQL
