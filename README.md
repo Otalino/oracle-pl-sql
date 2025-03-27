@@ -1,4 +1,4 @@
-# oracle-pl-sql
+# Oracle-PL-SQL
 Sistema de Gestão para Equipe de Ginástica Artística (Oracle APEX).
 <br/>
 Este repositório contém procedures e funções desenvolvidas para o sistema em Oracle APEX.
